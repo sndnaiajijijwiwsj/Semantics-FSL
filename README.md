@@ -11,8 +11,6 @@ The following packages are required to run the scripts:
 
 - Dataset: please download the dataset and put images into the folder data/images
 
-- Download MiniImageNet and place it under `data/miniimagenet/`.
-
 ## Running the code
 
 For example, to train the 5-shot 5-way CombinedProtoNet model with ResNet-12 backbone on MiniImageNet:
