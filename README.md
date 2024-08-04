@@ -11,7 +11,7 @@ The following packages are required to run the scripts:
 
 - Dataset: please download the dataset and put images into the folder data/images
 
-- Download the embeddings for MiniImageNet by using [MiniImagenet-embs](https://drive.google.com/file/d/1bThqlzJkeE7hx3NU2cWkbpp74wUDtnxd/view?usp=sharing) and place it under `data/miniimagenet/`.
+- Download MiniImageNet and place it under `data/miniimagenet/`.
 
 ## Running the code
 
